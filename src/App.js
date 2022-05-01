@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import GlobalStyles from "./styles/GlobalStyles";
 import { LayOut } from "./components/LayOut";
 
